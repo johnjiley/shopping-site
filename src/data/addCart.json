@@ -1,0 +1,30 @@
+[{
+    "product_id":1,
+        "currency_name":"INR",
+        "currency_Symbol":"RS",
+        "productprice_before":"Product Price Before Rs 1000",
+        "productprice_after":"Product Price After RS- 500",
+        "product_price":"Product Actual Price- 1500.00",
+        "product_discount":"Product Discount- Save 1000",
+        "product_color": "product color-You have variety of colors to choose from-           red black blue grey white yellow green",         
+        "product_description":"Product Discount-The best Discount you can Get Buy the best deal now ",
+        "product_detail":"Product Desciption-  StarAndDaisy Mompush Baby Stroller with 5 Point Safety Belt, Large Food Tray, 10 Level Adjustment Canopy, Easy Adjustable Seat/New Born Baby Pram for 0 to 36 Months.",
+        "product_name":"PProduct nameBaby Stroller",         
+        "product_size":"Product Size for all baby Strollers - XL M S L",
+        "product_image":"/stroller1.jpg",
+        "product_offer":"Get GST invoice and save up to 28% on business purchases Saving up to 28% off with GST input credit Saving up to 44% with Bulk Discounts ",
+        "product_Brand":"StarAndDaisy",
+        "product_material":"product material - Leather Aluminium",
+        "m_image": [{
+            "original": "/stroller1.jpg",
+            "thumbnail": "/stroller1.jpg"
+          },
+          {
+            "original": "/stroller3.jpg",
+            "thumbnail": "/stroller3.jpg"
+          },
+          {
+            "original": "/stroller4.jpg",
+            "thumbnail": "/stroller4.jpg"
+          }]
+}]

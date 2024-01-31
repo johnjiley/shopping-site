@@ -1,0 +1,162 @@
+[
+    {
+        "product_id":1,
+        "currency_name":"INR",
+        "currency_Symbol":"RS",
+        "productprice_before":"Product Price Before Rs 1000",
+        "productprice_after":"Product Price After RS- 500",
+        "product_price":"Product Actual Price- 1500.00",
+        "product_discount":"Product Discount- Save 1000",
+        "product_color": "product color-You have variety of colors to choose from-           red black blue grey white yellow green",         
+        "product_description":"Product Discount-The best Discount you can Get Buy the best deal now ",
+        "product_detail":"Product Desciption-  StarAndDaisy Mompush Baby Stroller with 5 Point Safety Belt, Large Food Tray, 10 Level Adjustment Canopy, Easy Adjustable Seat/New Born Baby Pram for 0 to 36 Months.",
+        "product_name":"PProduct nameBaby Stroller",         
+        "product_size":"Product Size for all baby Strollers - XL M S L",
+        "product_image":"/stroller1.jpg",
+        "product_offer":"Get GST invoice and save up to 28% on business purchases Saving up to 28% off with GST input credit Saving up to 44% with Bulk Discounts ",
+        "product_Brand":"StarAndDaisy",
+        "product_material":"product material - Leather Aluminium",
+
+        "m_image": [{
+          "original": "/stroller1.jpg",
+          "thumbnail": "/stroller1.jpg"
+        },
+        {
+          "original": "/stroller3.jpg",
+          "thumbnail": "/stroller3.jpg"
+        },
+        {
+          "original": "/stroller4.jpg",
+          "thumbnail": "/stroller4.jpg"
+        }]
+    },
+    {
+        "product_id":2,
+        "currency_name":"INR",
+        "currency_Symbol":"RS",
+        "product_name":"Product name Glow sticker ",
+        "productprice_before":"product price_before Rs 1000",
+        "productprice_after":"product price_after RS 500",
+        
+        "product_detail":"Product-detial -The stickers are easy to install and ready to use by just peeling off the sticker film and sticking the sticker at a clean and dry place. Make sure the area you stick these stickers is dry as the sticker won't glow in moist places",
+        "product_description":" product_description - Let's get glowing. Light up your life with this illuminating material for Your new born baby.",
+        "product_price":"Product Actual Price- 1500.00",
+        "product_size":" product-size-L M S XL",
+        "product_image":"/glow3.jpg",
+        "product_brand":" product brand Star And Daisy",
+        "product_material":"product-material- Leather Aluminium",
+        "m_image": [{
+          "original": "/glow1.jpg",
+          "thumbnail": "/stroller1.jpg"
+        },
+        {
+          "original": "/glow2.jpg",
+          "thumbnail": "/stroller3.jpg"
+        },
+        {
+          "original": "/glow1.jpg",
+          "thumbnail": "/stroller4.jpg"
+        }]
+    },
+    {
+        "product_id":3,
+        "currency_name":"INR",
+        "currency_Symbol":"RS",
+        "description":"When it comes to choosing the best for your little one, we are as picky as you are. Come dive into our baby lotion bottle to see all the baby safe ingredients.",
+        "product_name":"Johnson Baby Products",
+        "product_description":"Johnson baby product use of health . and skin product.",
+        "product_price":"550.00",
+        "product_size":"XL",
+        "product_image":"/baby1.jpg",
+        "product_Brand":"StarAndDaisy",
+        "product_material":"Leather Aluminium",
+        "m_image": [
+              {
+                "original": "/baby1.jpg",
+                "thumbnail": "/stroller1.jpg"
+              },
+              {
+                "original": "/baby.jpg",
+                "thumbnail": "/stroller3.jpg"
+              },
+              {
+                "original": "/baby2.jpg",
+                "thumbnail": "/stroller4.jpg"
+              }
+            ]
+    },
+    {
+        "product_id":4,
+        "currency_name":"INR",
+        "currency_Symbol":"RS",
+        "product_name":"Baby Clothes",
+        "product_description":"Comfort, mobility and ease of access are major aspects of modern baby clothes Infant and toddler clothing size is typically based on age.",
+        "product_price":"450.00",
+        "product_size":"XL",
+        "product_image":"/sets1.jpg",
+        "product_Brand":"StarAndDaisy",
+        "product_material":"Leather Aluminium",
+        "m_image": [{
+          "original": "/clo1.jpg",
+          "thumbnail": "/stroller1.jpg"
+        },
+        {
+          "original": "/clo1.jpg",
+          "thumbnail": "/stroller3.jpg"
+        },
+        {
+          "original": "/clo1.jpg",
+          "thumbnail": "/stroller4.jpg"
+        }]
+    },
+    {
+        "product_id":5,
+        "currency_name":"INR",
+        "currency_Symbol":"RS",
+        "description":"Looks matters a lot even for kids also",
+        "product_name":"Baby Toys",
+        "product_description":"Toys can greatly enrich play and they help children to develop. They fire the imagination, laying the foundation for improving cognitive and motor skills.",
+        "product_price":"450.00",
+        "product_size":"XL",
+        "product_image":"/toy2.jpg",
+        "product_Brand":"StarAndDaisy",
+        "product_material":"Leather Aluminium",
+        "m_image": [{
+          "original": "/toy.jpg",
+          "thumbnail": "/stroller1.jpg"
+        },
+        {
+          "original": "/toy1.jpg",
+          "thumbnail": "/stroller3.jpg"
+        },
+        {
+          "original": "/toy3.jpg",
+          "thumbnail": "/stroller4.jpg"
+        }]
+    }
+    ,
+    {
+        "product_id":6,
+        "currency_name":"INR",
+        "currency_Symbol":"RS",
+        "product_name":"Baby Pets",
+        "product_description":"While the presence of a family pet can bring valuable experiences to children of any age in the family.",
+        "product_price":"450.00",
+        "product_size":"XL",
+        "product_image":"/pets.jpg",
+        "product_Brand":"StarAndDaisy",
+        "product_material":"Leather Aluminium",
+        "m_image": [{
+          "original": "/pet1.jpg",
+          "thumbnail": "/pet1.jpg"
+        },
+        {
+          "original": "/pet2.jpg",
+          "thumbnail": "/pet2.jpg"
+        },
+        {
+          "original": "/pet3.jpg",
+          "thumbnail": "/pet3.jpg"
+        }]
+    }
+]
